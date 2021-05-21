@@ -124,6 +124,9 @@
   <data name="arrowRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\arrowRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="bedroom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bedroom.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -138,7 +141,7 @@
         AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19v
         cmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhw
         b3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgB
-        AQEBCQIAAAAAAAAAAAAAANT9DwDU/Q8AAAEAAQoPAgAAANT9DwACUklGRsz9DwBXQVZFZm10IBAAAAAB
+        AQEBCQIAAAAAAAAA1P0PANT9DwDU/Q8AAAEAAQoPAgAAANT9DwACUklGRsz9DwBXQVZFZm10IBAAAAAB
         AAIARKwAABCxAgAEABAAZGF0Yaj9DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQABAAEAAQABAAEAAQAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAA//8AAAAAAAAAAAAA//8AAP////////////////7////+/////v////7////9
@@ -17608,8 +17611,20 @@
         AP//AgD//wEA//8BAP//AQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAACw==
 </value>
   </data>
+  <data name="case0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case0.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="deepBrush" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\deepBrush.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="doan2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\doan2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="evil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\evil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="forestLake" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\forestLake.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -17622,7 +17637,7 @@
         AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19v
         cmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhw
         b3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgB
-        AQEBCQIAAAAAAAAAAAAAABjNDgAYzQ4AAAEAAQoPAgAAABjNDgACUklGRhDNDgBXQVZFZm10IBAAAAAD
+        AQEBCQIAAAAAAAAAGM0OABjNDgAYzQ4AAAEAAQoPAgAAABjNDgACUklGRhDNDgBXQVZFZm10IBAAAAAD
         AAIARKwAACBiBQAIACAAZmFjdAQAAABw2QEAZGF0YYDLDgDVnie6kbi+OYBPNLqb1ds5QmY7uraP8jm+
         yDy60jQBOtuJOLr3jAU6guguuv1FBjr1TCC62W8DOuFEDbpaZ/o5pPzsuSak5zkxg7m5O0HPOULVgbmU
         DbI5r4YPucT0kDnMfNK3kO5ZOcmfsDivRA45bNNEOWgfgjgN/JM5yys5t+Bqvzk3M6u4h3rjOQweG7lG
@@ -33792,8 +33807,23 @@
         biBFZGlzb24uAABJU0ZUBwAAAEVkaXNvbgAACw==
 </value>
   </data>
+  <data name="lobby_music_case2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lobby music_case2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="morning_song_case1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\morning song_case1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="not_evil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\not evil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="red_50x50" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\red_50x50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="samsung_alarm_case3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\samsung alarm_case3.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="suspense_music_case4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\suspense music_case4.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="yellow_50x50" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\yellow_50x50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

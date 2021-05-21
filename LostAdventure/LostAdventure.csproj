@@ -119,5 +119,38 @@
   <ItemGroup>
     <None Include="Resources\arrowRight.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case1 music.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\evil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\not evil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doan2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bedroom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\morning song_case1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lobby music_case2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\samsung alarm_case3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suspense music_case4.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
