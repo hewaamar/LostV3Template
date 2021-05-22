@@ -152,5 +152,38 @@
   <ItemGroup>
     <None Include="Resources\suspense music_case4.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car sound_case5.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alert_case7.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blender_case8.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fail_case5.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glassbreak_case10.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\happyboss_case11.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heartbeat_case9.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\running_case6.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case4.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
