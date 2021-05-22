@@ -43,8 +43,6 @@ namespace LostAdventure
             option3Label.Visible = false;
             option3Button.Visible = false; 
 
-
-
         }
 
         private void option1Button_Click(object sender, EventArgs e)
