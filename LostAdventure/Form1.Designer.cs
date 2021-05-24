@@ -34,12 +34,14 @@ namespace LostAdventure
             this.option1Label = new System.Windows.Forms.Label();
             this.outputLabel = new System.Windows.Forms.Label();
             this.option3Label = new System.Windows.Forms.Label();
+            this.coworkerBox = new System.Windows.Forms.PictureBox();
             this.bossBox = new System.Windows.Forms.PictureBox();
             this.mainCharacterBox = new System.Windows.Forms.PictureBox();
             this.option3Button = new System.Windows.Forms.PictureBox();
             this.imageBox = new System.Windows.Forms.PictureBox();
             this.option2Button = new System.Windows.Forms.PictureBox();
             this.option1Button = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.coworkerBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bossBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.mainCharacterBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.option3Button)).BeginInit();
@@ -50,7 +52,7 @@ namespace LostAdventure
             // 
             // option2Label
             // 
-            this.option2Label.Font = new System.Drawing.Font("Courier New", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.option2Label.Font = new System.Drawing.Font("Comic Sans MS", 11F, System.Drawing.FontStyle.Bold);
             this.option2Label.ForeColor = System.Drawing.Color.White;
             this.option2Label.Location = new System.Drawing.Point(98, 832);
             this.option2Label.Name = "option2Label";
@@ -60,7 +62,7 @@ namespace LostAdventure
             // 
             // option1Label
             // 
-            this.option1Label.Font = new System.Drawing.Font("Courier New", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.option1Label.Font = new System.Drawing.Font("Comic Sans MS", 11F, System.Drawing.FontStyle.Bold);
             this.option1Label.ForeColor = System.Drawing.Color.White;
             this.option1Label.Location = new System.Drawing.Point(91, 770);
             this.option1Label.Name = "option1Label";
@@ -71,7 +73,7 @@ namespace LostAdventure
             // outputLabel
             // 
             this.outputLabel.BackColor = System.Drawing.Color.Transparent;
-            this.outputLabel.Font = new System.Drawing.Font("Courier New", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.outputLabel.Font = new System.Drawing.Font("Comic Sans MS", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.outputLabel.ForeColor = System.Drawing.Color.White;
             this.outputLabel.Location = new System.Drawing.Point(36, 28);
             this.outputLabel.Name = "outputLabel";
@@ -82,7 +84,7 @@ namespace LostAdventure
             // 
             // option3Label
             // 
-            this.option3Label.Font = new System.Drawing.Font("Courier New", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.option3Label.Font = new System.Drawing.Font("Comic Sans MS", 11F, System.Drawing.FontStyle.Bold);
             this.option3Label.ForeColor = System.Drawing.Color.White;
             this.option3Label.Location = new System.Drawing.Point(98, 902);
             this.option3Label.Name = "option3Label";
@@ -90,11 +92,22 @@ namespace LostAdventure
             this.option3Label.TabIndex = 13;
             this.option3Label.Text = "option3Label";
             // 
+            // coworkerBox
+            // 
+            this.coworkerBox.BackColor = System.Drawing.Color.Transparent;
+            this.coworkerBox.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("coworkerBox.BackgroundImage")));
+            this.coworkerBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.coworkerBox.Location = new System.Drawing.Point(536, 279);
+            this.coworkerBox.Name = "coworkerBox";
+            this.coworkerBox.Size = new System.Drawing.Size(111, 193);
+            this.coworkerBox.TabIndex = 16;
+            this.coworkerBox.TabStop = false;
+            // 
             // bossBox
             // 
             this.bossBox.BackColor = System.Drawing.Color.Transparent;
             this.bossBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.bossBox.Location = new System.Drawing.Point(518, 361);
+            this.bossBox.Location = new System.Drawing.Point(469, 321);
             this.bossBox.Name = "bossBox";
             this.bossBox.Size = new System.Drawing.Size(169, 298);
             this.bossBox.TabIndex = 15;
@@ -162,8 +175,9 @@ namespace LostAdventure
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Black;
+            this.BackColor = System.Drawing.Color.LightSteelBlue;
             this.ClientSize = new System.Drawing.Size(1005, 997);
+            this.Controls.Add(this.coworkerBox);
             this.Controls.Add(this.bossBox);
             this.Controls.Add(this.mainCharacterBox);
             this.Controls.Add(this.option3Label);
@@ -179,6 +193,7 @@ namespace LostAdventure
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lost in a Forest";
+            ((System.ComponentModel.ISupportInitialize)(this.coworkerBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bossBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.mainCharacterBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.option3Button)).EndInit();
@@ -201,6 +216,7 @@ namespace LostAdventure
         private System.Windows.Forms.Label option3Label;
         private System.Windows.Forms.PictureBox mainCharacterBox;
         private System.Windows.Forms.PictureBox bossBox;
+        private System.Windows.Forms.PictureBox coworkerBox;
     }
 }
 

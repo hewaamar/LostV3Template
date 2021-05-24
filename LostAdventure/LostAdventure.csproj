@@ -185,5 +185,53 @@
   <ItemGroup>
     <None Include="Resources\case4.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case15_17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case19.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case99.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case120.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case20%281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\case18.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

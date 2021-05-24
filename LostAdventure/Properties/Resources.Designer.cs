@@ -72,26 +72,6 @@ namespace LostAdventure.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap arcade_blue {
-            get {
-                object obj = ResourceManager.GetObject("arcade_blue", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap arrowRight {
-            get {
-                object obj = ResourceManager.GetObject("arrowRight", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap bedroom {
             get {
                 object obj = ResourceManager.GetObject("bedroom", resourceCulture);
@@ -105,36 +85,6 @@ namespace LostAdventure.Properties {
         internal static System.IO.UnmanagedMemoryStream blender_case8 {
             get {
                 return ResourceManager.GetStream("blender_case8", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap blue {
-            get {
-                object obj = ResourceManager.GetObject("blue", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap blue_50x50 {
-            get {
-                object obj = ResourceManager.GetObject("blue_50x50", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap blue_small {
-            get {
-                object obj = ResourceManager.GetObject("blue_small", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -189,6 +139,116 @@ namespace LostAdventure.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap case10 {
+            get {
+                object obj = ResourceManager.GetObject("case10", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case11 {
+            get {
+                object obj = ResourceManager.GetObject("case11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case12 {
+            get {
+                object obj = ResourceManager.GetObject("case12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case120 {
+            get {
+                object obj = ResourceManager.GetObject("case120", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case13 {
+            get {
+                object obj = ResourceManager.GetObject("case13", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case14 {
+            get {
+                object obj = ResourceManager.GetObject("case14", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case15_17 {
+            get {
+                object obj = ResourceManager.GetObject("case15_17", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case18 {
+            get {
+                object obj = ResourceManager.GetObject("case18", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case19 {
+            get {
+                object obj = ResourceManager.GetObject("case19", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case20_1_ {
+            get {
+                object obj = ResourceManager.GetObject("case20_1_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case21 {
+            get {
+                object obj = ResourceManager.GetObject("case21", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap case3 {
             get {
                 object obj = ResourceManager.GetObject("case3", resourceCulture);
@@ -209,9 +269,49 @@ namespace LostAdventure.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap deepBrush {
+        internal static System.Drawing.Bitmap case5 {
             get {
-                object obj = ResourceManager.GetObject("deepBrush", resourceCulture);
+                object obj = ResourceManager.GetObject("case5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case7 {
+            get {
+                object obj = ResourceManager.GetObject("case7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case8 {
+            get {
+                object obj = ResourceManager.GetObject("case8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case9 {
+            get {
+                object obj = ResourceManager.GetObject("case9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap case99 {
+            get {
+                object obj = ResourceManager.GetObject("case99", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -242,16 +342,6 @@ namespace LostAdventure.Properties {
         internal static System.IO.UnmanagedMemoryStream fail_case5 {
             get {
                 return ResourceManager.GetStream("fail_case5", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap forestLake {
-            get {
-                object obj = ResourceManager.GetObject("forestLake", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
             }
         }
         

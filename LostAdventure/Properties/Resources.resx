@@ -121,26 +121,11 @@
   <data name="alert_case7" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\alert_case7.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="arcade_blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\arcade_blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="arrowRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\arrowRight.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="bedroom" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bedroom.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="blender_case8" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\blender_case8.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="blue_50x50" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\blue_50x50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="blue_small" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\blue_small.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="brook" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
@@ -17626,17 +17611,62 @@
   <data name="case1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\case1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="case10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case120" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case120.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\diner.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case14.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case15_17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case15_17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case18.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case19.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case20_1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case20(1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="case3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\case3.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="case4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\case4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="case5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case4.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="case99" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\case99.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="case_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\case 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="deepBrush" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\deepBrush.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="doan2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\doan2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -17646,9 +17676,6 @@
   </data>
   <data name="fail_case5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\fail_case5.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="forestLake" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\forestLake.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="glassbreak_case10" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\glassbreak_case10.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
