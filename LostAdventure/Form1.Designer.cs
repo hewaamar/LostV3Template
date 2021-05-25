@@ -41,6 +41,7 @@ namespace LostAdventure
             this.imageBox = new System.Windows.Forms.PictureBox();
             this.option2Button = new System.Windows.Forms.PictureBox();
             this.option1Button = new System.Windows.Forms.PictureBox();
+            this.coworker2Box = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.coworkerBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bossBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.mainCharacterBox)).BeginInit();
@@ -48,6 +49,7 @@ namespace LostAdventure
             ((System.ComponentModel.ISupportInitialize)(this.imageBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.option2Button)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.option1Button)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.coworker2Box)).BeginInit();
             this.SuspendLayout();
             // 
             // option2Label
@@ -106,6 +108,7 @@ namespace LostAdventure
             // bossBox
             // 
             this.bossBox.BackColor = System.Drawing.Color.Transparent;
+            this.bossBox.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bossBox.BackgroundImage")));
             this.bossBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.bossBox.Location = new System.Drawing.Point(469, 321);
             this.bossBox.Name = "bossBox";
@@ -116,6 +119,7 @@ namespace LostAdventure
             // mainCharacterBox
             // 
             this.mainCharacterBox.BackColor = System.Drawing.Color.Transparent;
+            this.mainCharacterBox.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("mainCharacterBox.BackgroundImage")));
             this.mainCharacterBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.mainCharacterBox.Location = new System.Drawing.Point(294, 157);
             this.mainCharacterBox.Name = "mainCharacterBox";
@@ -171,12 +175,24 @@ namespace LostAdventure
             this.option1Button.TabStop = false;
             this.option1Button.Click += new System.EventHandler(this.option1Button_Click);
             // 
+            // coworker2Box
+            // 
+            this.coworker2Box.BackColor = System.Drawing.Color.Transparent;
+            this.coworker2Box.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("coworker2Box.BackgroundImage")));
+            this.coworker2Box.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.coworker2Box.Location = new System.Drawing.Point(732, 404);
+            this.coworker2Box.Name = "coworker2Box";
+            this.coworker2Box.Size = new System.Drawing.Size(111, 193);
+            this.coworker2Box.TabIndex = 17;
+            this.coworker2Box.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSteelBlue;
             this.ClientSize = new System.Drawing.Size(1005, 997);
+            this.Controls.Add(this.coworker2Box);
             this.Controls.Add(this.coworkerBox);
             this.Controls.Add(this.bossBox);
             this.Controls.Add(this.mainCharacterBox);
@@ -200,6 +216,7 @@ namespace LostAdventure
             ((System.ComponentModel.ISupportInitialize)(this.imageBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.option2Button)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.option1Button)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.coworker2Box)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -217,6 +234,7 @@ namespace LostAdventure
         private System.Windows.Forms.PictureBox mainCharacterBox;
         private System.Windows.Forms.PictureBox bossBox;
         private System.Windows.Forms.PictureBox coworkerBox;
+        private System.Windows.Forms.PictureBox coworker2Box;
     }
 }
 
